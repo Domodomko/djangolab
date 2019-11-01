@@ -1,6 +1,6 @@
-settings/.ini
-settings.ini
+/settings.ini
 .ini
+/ini
 # Django #
 *.log
 *.pot
